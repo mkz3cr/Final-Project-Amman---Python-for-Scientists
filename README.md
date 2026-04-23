@@ -1,0 +1,1 @@
+This project analyzes U.S. county-level demographic data from the 2017 American Community Survey. My main question was whether counties with higher poverty rates tend to have lower median household incomes. After exploring the data with summary statistics, plots, and a linear regression model, I found a clear negative relationship between poverty and income across counties.
